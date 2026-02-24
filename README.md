@@ -1,9 +1,10 @@
 # instagram-private-api
 
-Instagram Private API implementation<br>
+Instagram Full Private API implementation<br>
 
-device register, login,follow,like,view,comment
+login, 2FA, challenge resolver, session persistence, create account, verify email, check username availability, timeline, user feed, media info, like, unlike, comment, follow, unfollow, followers/following lists, DM inbox, send messages, device fingerprint , HMAC-SHA256 request signing
 
 https://t.me/nullcods
+
 
 
